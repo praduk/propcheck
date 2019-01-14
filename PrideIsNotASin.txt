@@ -1,3 +1,0 @@
-[Person is sinful] implies not [Person has nonzero pride]
-[Person has lots of pride] implies [Person has nonzero pride]
-[Person has lots of pride] implies not [Person is sinful]
