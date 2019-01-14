@@ -1,0 +1,3 @@
+[A] implies not [B]
+[C] implies [B]
+[C] implies not [A]
